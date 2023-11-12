@@ -1,0 +1,80 @@
+/* === Reset === */
+html {
+  font-size: 16px;
+  line-height: 1.2;
+}
+
+body {
+  font-family: "Source Sans Pro";
+  font-weight: 400;
+  font-size: 1rem;
+  color: #000;
+}
+
+a {
+  display: inline-block;
+  text-decoration: none;
+}
+
+img {
+  max-width: 100%;
+}
+
+label {
+  cursor: pointer;
+}
+
+span {
+  display: inline-block;
+}
+
+ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+p {
+  margin-bottom: 0;
+}
+
+sup {
+  top: -0.185em;
+}
+
+/* === Commmon === */
+.text-black {
+  color: #000;
+}
+
+.bg-black {
+  background-color: #000;
+}
+
+.text-pink {
+  color: #FB3099;
+}
+
+.bg-pink {
+  background-color: #FB3099;
+}
+
+.font-weight-normal {
+  font-weight: 400;
+}
+
+.font-weight-semibold {
+  font-weight: 600;
+}
+
+.font-weight-bold {
+  font-weight: 700;
+}
+
+.font-weight-black {
+  font-weight: 900;
+}
+
+.font-style-italic {
+  font-style: italic;
+}/*# sourceMappingURL=style.css.map */
